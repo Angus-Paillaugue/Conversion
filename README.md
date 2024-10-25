@@ -59,7 +59,7 @@ PCC - Enhance Your Chinese Website Browsing Experience with Ease!
  - [x] Email for support
  - [x] Check quotas for Vercel and MongoDB
  - [x] Add newsletter thing
- - [x] Make the `max-w-*` the sames across pages
+ - [x] Make the `max-w-*` the same across pages
  - [x] Use components
  - [x] Add new update banner to the popup
  - [x] Dark theme on the website
